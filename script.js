@@ -1,5 +1,5 @@
-const onsets = ["c", "d", "b", "h", "t", "m", "s", "p", "f", "w"];
-const rimes = ["at", "og", "all", "ouse", "ree", "oon", "ight", "ar", "un", "ake"];
+const onsets = ["c", "d", "b", "h", "t", "m", "s", "p", "w"];
+const rimes = ["at", "in", "ug", "en", "it", "ap", "un", "op", "ook", "eet"];
 
 let currentOnsetIndex = 0;
 let currentRimeIndex = 0;
